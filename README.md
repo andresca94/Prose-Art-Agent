@@ -75,7 +75,6 @@ ProseGenerator/
 ```
 
 `__pycache__` is ignored via `.gitignore`.\
-`semantic_search_logs.txt` appears only after your first RAG query—it’s harmless.
 
 ---
 
