@@ -1,5 +1,7 @@
 # ProseGenerator — Full‑Stack AI Agent
 
+![Prose Art Agent App](/Users/andrescarvajal/Prose-Art-Agent/app.gif)
+
 LangGraph‑powered **AI writing assistant** that turns a short list of *beats* into a ≈1 500‑word passage **and** (optionally) illustrates the chapter with an AI‑generated cover.\
 The agent self‑critiques its prose and image via Judge‑val.\
 A lightweight React UI (boot‑strapped with **Create React App**, *not* Vite) provides a one‑click playground.
