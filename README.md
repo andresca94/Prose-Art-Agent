@@ -99,7 +99,7 @@ ProseGenerator/
 
 ```bash
 # from repo root
-conda activate prosegen           # if not already
+conda activate prose-art-gen           # if not already
 python backend/main_agent.py
 ```
 
